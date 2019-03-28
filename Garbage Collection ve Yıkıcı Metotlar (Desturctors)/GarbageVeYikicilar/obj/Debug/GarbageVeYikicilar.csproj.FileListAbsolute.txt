@@ -1,0 +1,12 @@
+c:\users\mka\documents\visual studio 2012\Projects\GarbageVeYikicilar\GarbageVeYikicilar\bin\Debug\GarbageVeYikicilar.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\GarbageVeYikicilar\GarbageVeYikicilar\bin\Debug\GarbageVeYikicilar.exe
+c:\users\mka\documents\visual studio 2012\Projects\GarbageVeYikicilar\GarbageVeYikicilar\bin\Debug\GarbageVeYikicilar.pdb
+c:\users\mka\documents\visual studio 2012\Projects\GarbageVeYikicilar\GarbageVeYikicilar\obj\Debug\GarbageVeYikicilar.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\GarbageVeYikicilar\GarbageVeYikicilar\obj\Debug\GarbageVeYikicilar.exe
+c:\users\mka\documents\visual studio 2012\Projects\GarbageVeYikicilar\GarbageVeYikicilar\obj\Debug\GarbageVeYikicilar.pdb
+C:\Users\MKA\Desktop\C# Sınıflar\10) Garbage Collection ve Yıkıcı Metotlar\GarbageVeYikicilar\bin\Debug\GarbageVeYikicilar.exe.config
+C:\Users\MKA\Desktop\C# Sınıflar\10) Garbage Collection ve Yıkıcı Metotlar\GarbageVeYikicilar\obj\Debug\GarbageVeYikicilar.exe
+C:\Users\MKA\Desktop\C# Sınıflar\10) Garbage Collection ve Yıkıcı Metotlar\GarbageVeYikicilar\obj\Debug\GarbageVeYikicilar.pdb
+C:\Users\MKA\Desktop\C# Sınıflar\10) Garbage Collection ve Yıkıcı Metotlar\GarbageVeYikicilar\bin\Debug\GarbageVeYikicilar.exe
+C:\Users\MKA\Desktop\C# Sınıflar\10) Garbage Collection ve Yıkıcı Metotlar\GarbageVeYikicilar\bin\Debug\GarbageVeYikicilar.pdb
+C:\Users\MKA\Desktop\C# Sınıflar\10) Garbage Collection ve Yıkıcı Metotlar\GarbageVeYikicilar\obj\Debug\GarbageVeYikicilar.csprojResolveAssemblyReference.cache
